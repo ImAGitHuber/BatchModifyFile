@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchModify", "BatchModify\BatchModify.csproj", "{8123A9BD-39EF-40C8-9DEC-57A922DB3CB0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{EB454658-F86D-4738-9472-34082D0FBA05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8123A9BD-39EF-40C8-9DEC-57A922DB3CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8123A9BD-39EF-40C8-9DEC-57A922DB3CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8123A9BD-39EF-40C8-9DEC-57A922DB3CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8123A9BD-39EF-40C8-9DEC-57A922DB3CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB454658-F86D-4738-9472-34082D0FBA05}.Debug|Any CPU.ActiveCfg = Debug
+		{EB454658-F86D-4738-9472-34082D0FBA05}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EDE09C8-6339-4C29-A79D-AE608A514C8F}
+	EndGlobalSection
+EndGlobal

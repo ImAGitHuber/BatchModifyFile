@@ -1,0 +1,10 @@
+F:\桌面文档\test\BatchModify\BatchModify\bin\Debug\BatchModify.exe.config
+F:\桌面文档\test\BatchModify\BatchModify\bin\Debug\BatchModify.exe
+F:\桌面文档\test\BatchModify\BatchModify\bin\Debug\BatchModify.pdb
+F:\桌面文档\test\BatchModify\BatchModify\obj\Debug\BatchModify.Form1.resources
+F:\桌面文档\test\BatchModify\BatchModify\obj\Debug\BatchModify.Properties.Resources.resources
+F:\桌面文档\test\BatchModify\BatchModify\obj\Debug\BatchModify.csproj.GenerateResource.cache
+F:\桌面文档\test\BatchModify\BatchModify\obj\Debug\BatchModify.csproj.CoreCompileInputs.cache
+F:\桌面文档\test\BatchModify\BatchModify\obj\Debug\BatchModify.exe
+F:\桌面文档\test\BatchModify\BatchModify\obj\Debug\BatchModify.pdb
+F:\桌面文档\test\BatchModify\BatchModify\obj\Debug\BatchModify.csprojAssemblyReference.cache
